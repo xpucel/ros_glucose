@@ -1,0 +1,4 @@
+int32[] assumptions
+---
+bool result
+int32[] model
